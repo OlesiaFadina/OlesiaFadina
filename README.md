@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Olesia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="36"/></h1>
+<h1 align="center" color="white">Hi there, I'm Olesia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 
 
 
